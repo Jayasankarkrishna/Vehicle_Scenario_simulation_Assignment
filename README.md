@@ -5,7 +5,8 @@ Hai,
 
 
 
-Installation Front End :
+Installation Front End :  
+            Folder name ->  public , src ,package-lock.json ,package.json
               Front End ->  first install  Node.js And  Reactjs folder i given to clone this to next step 
               next step ->   npm install
 
