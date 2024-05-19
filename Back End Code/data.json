@@ -1,0 +1,50 @@
+{
+  "scenarios": [
+    {
+      "id": 1,
+      "name": "Test Scenario",
+      "time": "10"
+    },
+    {
+      "id": 2,
+      "name": "My Scenario",
+      "time": "10"
+    },
+    {
+      "id": 3,
+      "name": "raj",
+      "time": "10s"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "name": "bus",
+      "positionX": 798,
+      "positionY": 796,
+      "speed": "1",
+      "direction": "Downwards",
+      "scenarios_id": 1
+    },
+    {
+      "id": 2,
+      "name": "KONA JAYA SANKAR KRISHNA",
+      "positionX": "70",
+      "positionY": "10",
+      "speed": "10",
+      "direction": "Backwards",
+      "scenarios_id": 2
+    },
+    {
+      "id": 3,
+      "name": "mickaline",
+      "positionX": "700",
+      "positionY": "700",
+      "speed": "1",
+      "direction": "Backwards",
+      "scenarios_id": 1
+    }
+  ],
+  "nextScenarioId": 3,
+  "nextVehicleId": 10
+}
